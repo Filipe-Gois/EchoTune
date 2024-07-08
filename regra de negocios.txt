@@ -1,0 +1,22 @@
+Adição de Músicas:
+Os usuários podem adicionar novas músicas à sua biblioteca pessoal, fornecendo informações como título, artista, álbum e duração da música.
+Cada música deve ser única na biblioteca, impedindo a adição de duplicatas.
+
+Criação de Playlists:
+Os usuários podem criar playlists personalizadas para organizar suas músicas de acordo com diferentes temas, como "Favoritas", "Festa", "Trabalho", etc.
+Cada playlist pode conter várias músicas, e uma música pode estar presente em múltiplas playlists.
+
+Reprodução de Músicas:
+Os usuários podem reproduzir músicas de suas playlists.
+Opções de reprodução incluem reprodução sequencial (em ordem), aleatória (shuffle) e repetição (loop).
+
+Gerenciamento de Biblioteca:
+Os usuários podem visualizar todas as músicas em sua biblioteca, organizadas por álbuns, artistas, ou outras categorias relevantes.
+É possível editar informações das músicas, como título, artista ou álbum, para manter a biblioteca atualizada.
+
+Compartilhamento de Playlists:
+Os usuários têm a opção de compartilhar suas playlists com outros usuários do sistema, permitindo que amigos ou colegas ouçam suas seleções musicais.
+
+Remoção de Músicas e Playlists:
+Os usuários podem remover músicas específicas de suas playlists ou da biblioteca inteira, garantindo flexibilidade na gestão de conteúdo.
+A remoção de uma música de uma playlist não afeta a presença da música na biblioteca geral, a menos que seja excluída completamente.

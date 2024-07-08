@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AkYg44qYOgXZdU/nJvaWzyb9iTPuvyxnFh+Ge9359Co=",
+  "Source": "WebApiEchoTune",
+  "BasePath": "_content/WebApiEchoTune",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

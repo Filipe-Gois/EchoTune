@@ -1,0 +1,6 @@
+@WebApiEchoTune_HostAddress = http://localhost:5010
+
+GET {{WebApiEchoTune_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
