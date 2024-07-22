@@ -9,10 +9,10 @@ namespace WebApiEchoTune.Domains
         [Key]
         public Guid IdUsuarioMidia { get; set; } = Guid.NewGuid();
 
-        [Column(TypeName = "VARCHAR(60)")]
+        [Column(TypeName = "VARCHAR(MAX)")]
         public string? BlobName { get; set; }
 
-        [Column(TypeName = "TEXT")]
+        [Column(TypeName = "VARCHAR(MAX)")]
         public string? Foto { get; set; }
     }
 }

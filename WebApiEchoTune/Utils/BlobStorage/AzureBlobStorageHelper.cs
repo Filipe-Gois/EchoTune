@@ -39,16 +39,16 @@ namespace WebAPI.Utils.BlobStorage
                     usuarioMidiaUpado.Foto = blobClient.Uri.ToString();
 
                     usuarioMidiaUpado.BlobName = blobName;
-                    return usuarioMidiaUpado;
+
                 }
                 else
                 {
-                    //retorna a uri de uma imagem padrao caso nenhum arquivo seja enviado
-                    //usuarioUpado.Foto = "https://blobvitalhubg16enzo.blob.core.windows.net/containerfittrack/profileimage.jpg";
                     usuarioMidiaUpado!.Foto = "https://blobvitalhubg16enzo.blob.core.windows.net/containerfittrack/default_image.png";
 
-                    return usuarioMidiaUpado;
+
                 }
+
+                return usuarioMidiaUpado;
             }
             catch (Exception)
             {

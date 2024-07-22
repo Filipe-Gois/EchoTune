@@ -18,18 +18,19 @@ namespace WebApiEchoTune.Controllers
         private readonly IUsuarioRepository _usuarioRepository = usuarioRepository;
 
         [HttpPost("Login")]
-        public IActionResult Login(LoginViewModel loginViewModel)
+        public IActionResult Login(LoginViewModel loginViewModel, bool isLoginGoogle = false)
         {
             try
             {
-                Usuario usuarioBuscado = _usuarioRepository.BuscarPorEmailESenha(loginViewModel.Email!, loginViewModel.Senha!) ?? throw new Exception("Email ou senha inválidos!");
+                Usuario usuarioBuscado = !isLoginGoogle ? _usuarioRepository.BuscarPorEmailESenha(loginViewModel.Email!, loginViewModel.Senha!) ?? throw new Exception("Email ou senha inválidos!") : _usuarioRepository.BuscarPorEmailEGoogleId(loginViewModel.Email!, loginViewModel.IdGoogleAccount!) ?? throw new Exception("Email ou id google inválidos!");
 
                 Claim[] claims =
                 [
                 new(JwtRegisteredClaimNames.Email, usuarioBuscado.Email!),
                 new(JwtRegisteredClaimNames.Name, usuarioBuscado.Nome!),
                 new(JwtRegisteredClaimNames.Jti, usuarioBuscado.IdUsuario.ToString()),
-                new("Foto", usuarioBuscado.UsuarioMidia!.Foto!)
+                new("Foto", usuarioBuscado.UsuarioMidia!.Foto!),
+                new("Role", usuarioBuscado.TipoUsuario!.Titulo!)
                 ];
 
                 SymmetricSecurityKey key = new(System.Text.Encoding.UTF8.GetBytes("EchoTune-webapi-chave-symmetricsecuritykey"));
@@ -40,7 +41,7 @@ namespace WebApiEchoTune.Controllers
                         issuer: "API-EchoTune",
                         audience: "API-EchoTune",
                         claims: claims,
-                        expires: DateTime.Now.AddDays(7),
+                        expires: DateTime.Now.AddMinutes(30),
                         signingCredentials: creds
                     );
 

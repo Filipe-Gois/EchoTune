@@ -11,5 +11,6 @@ namespace WebApiEchoTune.Contexts
         public DbSet<PlayListMusica> PlaylistMusica { get; set; }
         public DbSet<MusicaUsuario> MusicaUsuario { get; set; }
         public DbSet<UsuarioMidia> UsuarioMidia { get; set; }
+        public DbSet<TipoUsuario> TipoUsuario { get; set; }
     }
 }

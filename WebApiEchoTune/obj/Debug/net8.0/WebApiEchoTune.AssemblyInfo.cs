@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApiEchoTune")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96ab01dfb454962c717eb6736b5db75c04333140")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4314a99474387da704bbc156f11cd590f5199664")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApiEchoTune")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApiEchoTune")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

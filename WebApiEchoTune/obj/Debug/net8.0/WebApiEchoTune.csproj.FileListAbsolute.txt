@@ -143,3 +143,7 @@ C:\Users\fytho\Documents\Github\EchoTune\WebApiEchoTune\obj\Debug\net8.0\WebApiE
 C:\Users\fytho\Documents\Github\EchoTune\WebApiEchoTune\obj\Debug\net8.0\ref\WebApiEchoTune.dll
 C:\Users\fytho\Documents\Github\EchoTune\WebApiEchoTune\bin\Debug\net8.0\DotNetEnv.dll
 C:\Users\fytho\Documents\Github\EchoTune\WebApiEchoTune\bin\Debug\net8.0\Sprache.dll
+C:\Users\fytho\Documents\Github\EchoTune\WebApiEchoTune\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+C:\Users\fytho\Documents\Github\EchoTune\WebApiEchoTune\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\Users\fytho\Documents\Github\EchoTune\WebApiEchoTune\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\fytho\Documents\Github\EchoTune\WebApiEchoTune\bin\Debug\net8.0\System.IO.Hashing.dll

@@ -20,3 +20,6 @@ Os usuários têm a opção de compartilhar suas playlists com outros usuários 
 Remoção de Músicas e Playlists:
 Os usuários podem remover músicas específicas de suas playlists ou da biblioteca inteira, garantindo flexibilidade na gestão de conteúdo.
 A remoção de uma música de uma playlist não afeta a presença da música na biblioteca geral, a menos que seja excluída completamente.
+
+
+chat: https://chatgpt.com/share/820ca7fd-5216-4b3f-b896-1cabedbd802c

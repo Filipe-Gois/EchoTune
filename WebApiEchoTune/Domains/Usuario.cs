@@ -21,13 +21,18 @@ namespace WebApiEchoTune.Domains
 
 
         [Column(TypeName = "VARCHAR(60)")]
-        [Required(ErrorMessage = "A senha do usuário é obrigatória!")]
         [StringLength(60, MinimumLength = 5, ErrorMessage = "A senha deve conter entre 5 e 30 caracteres.")]
         public string? Senha { get; set; }
 
+        [Column(TypeName = "VARCHAR(MAX)")]
+        public string? IdGoogleAccount { get; set; }
 
         [ForeignKey("IdUsuarioMidia")]
-        public Guid IdUsuarioMidia { get; set; }
         public UsuarioMidia? UsuarioMidia { get; set; }
+        public Guid IdUsuarioMidia { get; set; }
+
+        [ForeignKey("IdTipoUsuario")]
+        public TipoUsuario? TipoUsuario { get; set; }
+        public Guid IdTipoUsuario { get; set; }
     }
 }

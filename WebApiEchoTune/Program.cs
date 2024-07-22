@@ -102,7 +102,7 @@ builder.Services.AddSwaggerGen(options =>
 });
 
 // Obter a string de conexão do arquivo .env
-var connectionString = Environment.GetEnvironmentVariable("ConnectionStringDataBase");
+string connectionString = Environment.GetEnvironmentVariable("ConnectionStringDataBase")!;
 
 builder.Services.AddDbContext<EchoTuneContext>(options =>
     options.UseSqlServer(connectionString));

@@ -3,42 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\utils\\blobstorage\\azureblobstoragehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:utils\\blobstorage\\azureblobstoragehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\viewmodels\\musica\\listarmusica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:viewmodels\\musica\\listarmusica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\viewmodels\\login\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:viewmodels\\login\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\utils\\criptografia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:utils\\criptografia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\.env.example||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:.env.example||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\contexts\\echotunecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:contexts\\echotunecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -47,76 +11,56 @@
       "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\domains\\usuariomidia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:domains\\usuariomidia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\webapiechotune.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:webapiechotune.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\domains\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:domains\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\domains\\playlistmusica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:domains\\playlistmusica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\viewmodels\\playlist\\listarplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:viewmodels\\playlist\\listarplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\viewmodels\\playlist\\cadastrarplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:viewmodels\\playlist\\cadastrarplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\interfaces\\imusicarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:interfaces\\imusicarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\repositories\\musicarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:repositories\\musicarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\repositories\\playlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:repositories\\playlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\interfaces\\iplaylistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:interfaces\\iplaylistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\domains\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:domains\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\controllers\\playlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:controllers\\playlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\viewmodels\\usuario\\cadastrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:viewmodels\\usuario\\cadastrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\controllers\\musicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:controllers\\musicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\utils\\blobstorage\\azureblobstoragehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:utils\\blobstorage\\azureblobstoragehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\domains\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:domains\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\domains\\tipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:domains\\tipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\domains\\musicausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:domains\\musicausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\domains\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:domains\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\viewmodels\\login\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:viewmodels\\login\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\domains\\usuariomidia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:domains\\usuariomidia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -131,79 +75,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AQIAAHwBAAAAAAAAAAAAAJEBAAAFAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-07-08T15:32:09.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Criptografia.cs",
-              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Utils\\Criptografia.cs",
-              "RelativeDocumentMoniker": "Utils\\Criptografia.cs",
-              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Utils\\Criptografia.cs",
-              "RelativeToolTip": "Utils\\Criptografia.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T15:21:57.049Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AzureBlobStorageHelper.cs",
-              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Utils\\BlobStorage\\AzureBlobStorageHelper.cs",
-              "RelativeDocumentMoniker": "Utils\\BlobStorage\\AzureBlobStorageHelper.cs",
-              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Utils\\BlobStorage\\AzureBlobStorageHelper.cs",
-              "RelativeToolTip": "Utils\\BlobStorage\\AzureBlobStorageHelper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T15:10:57.234Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": ".env.example",
-              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\.env.example",
-              "RelativeDocumentMoniker": ".env.example",
-              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\.env.example",
-              "RelativeToolTip": ".env.example",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-07-08T14:57:59.437Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": ".env",
-              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\.env",
-              "RelativeDocumentMoniker": ".env",
-              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\.env",
-              "RelativeToolTip": ".env",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-07-08T14:43:13.238Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAF4AAAAAAAAAAAAAAGgAAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T02:38:13.365Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -211,11 +82,12 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-08T14:43:22.923Z"
+              "WhenOpened": "2024-07-17T01:04:58.574Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -223,11 +95,159 @@
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-08T14:43:19.549Z"
+              "WhenOpened": "2024-07-17T01:04:57.219Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "WebApiEchoTune",
+              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\WebApiEchoTune.csproj",
+              "RelativeDocumentMoniker": "WebApiEchoTune.csproj",
+              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\WebApiEchoTune.csproj",
+              "RelativeToolTip": "WebApiEchoTune.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-17T01:01:58.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T01:00:39.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-09T04:02:13.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TipoUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Domains\\TipoUsuario.cs",
+              "RelativeDocumentMoniker": "Domains\\TipoUsuario.cs",
+              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Domains\\TipoUsuario.cs",
+              "RelativeToolTip": "Domains\\TipoUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T02:07:20.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABgAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T00:24:48.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Domains\\Usuario.cs",
+              "RelativeDocumentMoniker": "Domains\\Usuario.cs",
+              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Domains\\Usuario.cs",
+              "RelativeToolTip": "Domains\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T23:12:45.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsuarioMidia.cs",
+              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Domains\\UsuarioMidia.cs",
+              "RelativeDocumentMoniker": "Domains\\UsuarioMidia.cs",
+              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Domains\\UsuarioMidia.cs",
+              "RelativeToolTip": "Domains\\UsuarioMidia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T23:12:30.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AzureBlobStorageHelper.cs",
+              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Utils\\BlobStorage\\AzureBlobStorageHelper.cs",
+              "RelativeDocumentMoniker": "Utils\\BlobStorage\\AzureBlobStorageHelper.cs",
+              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Utils\\BlobStorage\\AzureBlobStorageHelper.cs",
+              "RelativeToolTip": "Utils\\BlobStorage\\AzureBlobStorageHelper.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T22:56:46.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CadastrarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\ViewModels\\Usuario\\CadastrarUsuario.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Usuario\\CadastrarUsuario.cs",
+              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\ViewModels\\Usuario\\CadastrarUsuario.cs",
+              "RelativeToolTip": "ViewModels\\Usuario\\CadastrarUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T22:44:37.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:02:04.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:40:33.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "Repositories\\UsuarioRepository.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAAALUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:27:58.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\ViewModels\\Login\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\Login\\LoginViewModel.cs",
@@ -235,247 +255,7 @@
               "RelativeToolTip": "ViewModels\\Login\\LoginViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T14:37:27.73Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "Controllers\\LoginController.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAAACgAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T13:50:56.173Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ListarMusica.cs",
-              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\ViewModels\\Musica\\ListarMusica.cs",
-              "RelativeDocumentMoniker": "ViewModels\\Musica\\ListarMusica.cs",
-              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\ViewModels\\Musica\\ListarMusica.cs",
-              "RelativeToolTip": "ViewModels\\Musica\\ListarMusica.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T17:19:15.527Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UsuarioMidia.cs",
-              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Domains\\UsuarioMidia.cs",
-              "RelativeDocumentMoniker": "Domains\\UsuarioMidia.cs",
-              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Domains\\UsuarioMidia.cs",
-              "RelativeToolTip": "Domains\\UsuarioMidia.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T14:06:20.237Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IMusicaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Interfaces\\IMusicaRepository.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IMusicaRepository.cs",
-              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Interfaces\\IMusicaRepository.cs",
-              "RelativeToolTip": "Interfaces\\IMusicaRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T02:37:19.659Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EchoTuneContext.cs",
-              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Contexts\\EchoTuneContext.cs",
-              "RelativeDocumentMoniker": "Contexts\\EchoTuneContext.cs",
-              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Contexts\\EchoTuneContext.cs",
-              "RelativeToolTip": "Contexts\\EchoTuneContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T02:36:58.841Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IUsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Interfaces\\IUsuarioRepository.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IUsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Interfaces\\IUsuarioRepository.cs",
-              "RelativeToolTip": "Interfaces\\IUsuarioRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T20:53:25.53Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Domains\\Usuario.cs",
-              "RelativeDocumentMoniker": "Domains\\Usuario.cs",
-              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Domains\\Usuario.cs",
-              "RelativeToolTip": "Domains\\Usuario.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAAB0AAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T02:35:26.414Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PlayListMusica.cs",
-              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Domains\\PlayListMusica.cs",
-              "RelativeDocumentMoniker": "Domains\\PlayListMusica.cs",
-              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Domains\\PlayListMusica.cs",
-              "RelativeToolTip": "Domains\\PlayListMusica.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T02:35:23.471Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Repositories\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Repositories\\UsuarioRepository.cs",
-              "RelativeToolTip": "Repositories\\UsuarioRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T02:37:38.164Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "MusicaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Repositories\\MusicaRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\MusicaRepository.cs",
-              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Repositories\\MusicaRepository.cs",
-              "RelativeToolTip": "Repositories\\MusicaRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T02:37:35.141Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "PlayListRepository.cs",
-              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Repositories\\PlayListRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\PlayListRepository.cs",
-              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Repositories\\PlayListRepository.cs",
-              "RelativeToolTip": "Repositories\\PlayListRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T02:37:37.18Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CadastrarPlayList.cs",
-              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\ViewModels\\PlayList\\CadastrarPlayList.cs",
-              "RelativeDocumentMoniker": "ViewModels\\PlayList\\CadastrarPlayList.cs",
-              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\ViewModels\\PlayList\\CadastrarPlayList.cs",
-              "RelativeToolTip": "ViewModels\\PlayList\\CadastrarPlayList.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T20:50:32.788Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ListarPlayList.cs",
-              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\ViewModels\\PlayList\\ListarPlayList.cs",
-              "RelativeDocumentMoniker": "ViewModels\\PlayList\\ListarPlayList.cs",
-              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\ViewModels\\PlayList\\ListarPlayList.cs",
-              "RelativeToolTip": "ViewModels\\PlayList\\ListarPlayList.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T17:21:23.505Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "Controllers\\UsuarioController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T02:36:51.761Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "PlaylistController.cs",
-              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Controllers\\PlaylistController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PlaylistController.cs",
-              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Controllers\\PlaylistController.cs",
-              "RelativeToolTip": "Controllers\\PlaylistController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T02:36:50.097Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "MusicaController.cs",
-              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Controllers\\MusicaController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MusicaController.cs",
-              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Controllers\\MusicaController.cs",
-              "RelativeToolTip": "Controllers\\MusicaController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T02:36:47.787Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "IPlaylistRepository.cs",
-              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Interfaces\\IPlaylistRepository.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IPlaylistRepository.cs",
-              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Interfaces\\IPlaylistRepository.cs",
-              "RelativeToolTip": "Interfaces\\IPlaylistRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T20:48:38.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "PlayList.cs",
-              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Domains\\PlayList.cs",
-              "RelativeDocumentMoniker": "Domains\\PlayList.cs",
-              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Domains\\PlayList.cs",
-              "RelativeToolTip": "Domains\\PlayList.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T17:22:35.158Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Musica.cs",
-              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Domains\\Musica.cs",
-              "RelativeDocumentMoniker": "Domains\\Musica.cs",
-              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Domains\\Musica.cs",
-              "RelativeToolTip": "Domains\\Musica.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAABQwAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T17:20:23.716Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "MusicaUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Domains\\MusicaUsuario.cs",
-              "RelativeDocumentMoniker": "Domains\\MusicaUsuario.cs",
-              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Domains\\MusicaUsuario.cs",
-              "RelativeToolTip": "Domains\\MusicaUsuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T17:22:01.365Z"
+              "WhenOpened": "2024-07-09T00:28:11.062Z"
             }
           ]
         }
