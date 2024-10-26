@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\webapiechotune.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -43,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:domains\\tipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|c:\\users\\fytho\\documents\\github\\echotune\\webapiechotune\\domains\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45288391-F484-47FC-8839-81C81D5D22FC}|WebApiEchoTune.csproj|solutionrelative:domains\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -75,6 +75,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:55:02.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -82,12 +95,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-17T01:04:58.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T01:04:58.574Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -95,38 +107,23 @@
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-17T01:04:57.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T01:04:57.219Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WebApiEchoTune",
+              "DocumentIndex": 4,
+              "Title": "WebApiEchoTune.csproj",
               "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\WebApiEchoTune.csproj",
               "RelativeDocumentMoniker": "WebApiEchoTune.csproj",
               "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\WebApiEchoTune.csproj",
               "RelativeToolTip": "WebApiEchoTune.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-17T01:01:58.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T01:01:58.732Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAFMAAAAAAAAAAAAAAGwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T01:00:39.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": ".env",
               "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\.env",
               "RelativeDocumentMoniker": ".env",
@@ -138,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "TipoUsuario.cs",
               "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Domains\\TipoUsuario.cs",
               "RelativeDocumentMoniker": "Domains\\TipoUsuario.cs",
@@ -186,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "AzureBlobStorageHelper.cs",
               "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Utils\\BlobStorage\\AzureBlobStorageHelper.cs",
               "RelativeDocumentMoniker": "Utils\\BlobStorage\\AzureBlobStorageHelper.cs",
@@ -198,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CadastrarUsuario.cs",
               "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\ViewModels\\Usuario\\CadastrarUsuario.cs",
               "RelativeDocumentMoniker": "ViewModels\\Usuario\\CadastrarUsuario.cs",
@@ -210,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
@@ -222,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IUsuarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Interfaces\\IUsuarioRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\IUsuarioRepository.cs",
@@ -234,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UsuarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\EchoTune\\WebApiEchoTune\\Repositories\\UsuarioRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\UsuarioRepository.cs",
@@ -242,8 +239,7 @@
               "RelativeToolTip": "Repositories\\UsuarioRepository.cs",
               "ViewState": "AQIAAJ4AAAAAAAAAAAAAALUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T17:27:58.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T17:27:58.795Z"
             },
             {
               "$type": "Document",
